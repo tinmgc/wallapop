@@ -17,6 +17,7 @@ This repository contains test cases developed in Playwright to validate the Vaca
 
 ## Test cases
 - TC-02 Validate that the vacation mode can be activated correctly
+- TC-08 Validate that the items cannot be purchased during the vacation period
 
 ## How to use
 
